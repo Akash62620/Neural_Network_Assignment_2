@@ -3,11 +3,11 @@ This repository contains the implementation of Assignment 2 for **CS5720 Neural 
 
 ## Tasks Implemented
 
-### ✅ 1️⃣ Convolution Operations
+### 1 Convolution Operations
 - Implemented convolution on a **5×5 input matrix** using a **3×3 kernel**.
 - Applied **different stride and padding values**.
 
-### ✅ 2️⃣ CNN Feature Extraction & Pooling
+### 2 CNN Feature Extraction & Pooling
 #### Task 1: **Edge Detection using Sobel Filter**
 - Applied Sobel filters in **X and Y directions** for edge detection.
 - Displayed the **original and edge-detected images**.
@@ -16,7 +16,7 @@ This repository contains the implementation of Assignment 2 for **CS5720 Neural 
 - Created a **random 4×4 matrix**.
 - Applied **2×2 Max Pooling** and **2×2 Average Pooling**.
 
-### ✅ 3️⃣ Implementing CNN Architectures
+### 3 Implementing CNN Architectures
 #### Task 1: **AlexNet Implementation**
 - Built a **simplified AlexNet model** with **Conv2D, MaxPooling, Dropout & Dense layers**.
 
@@ -26,7 +26,7 @@ This repository contains the implementation of Assignment 2 for **CS5720 Neural 
 
 ---
 
-## 🚀 Running the Code
+## Running the Code
 To run this assignment on your local machine, follow these steps:
 
 1. **Clone the repository**:
