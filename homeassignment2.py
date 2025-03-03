@@ -9,8 +9,8 @@ Original file is located at
 
 import numpy as np
 import tensorflow as tf
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Conv2D, Input, MaxPooling2D, AveragePooling2D, InputLayer, Flatten, Dense, Dropout
+from tensorflow.keras.models import Sequential, Model
+from tensorflow.keras.layers import Conv2D, Input, MaxPooling2D, AveragePooling2D, InputLayer, Flatten, Dense, Dropout, Add
 import cv2
 import matplotlib.pyplot as plt
 
